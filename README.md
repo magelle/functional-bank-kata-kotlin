@@ -4,14 +4,14 @@
 
 Build a simple bank account system that handle the following methods
 
-```deposit(Integer amount)```
+`deposit(Integer amount)`
 
-```withdraw(Integer amount)```
+`withdraw(Integer amount)`
 
-```printStatement()```
+`printStatement()`
 
 printStatement should print the account statement like this : 
- 
+
 | date | credit | debit | balance |
 | ---- | ------ | ----- | ------- |
 | 14/01/2012 | | 500.00 | 2500.00 |
